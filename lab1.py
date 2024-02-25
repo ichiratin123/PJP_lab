@@ -40,8 +40,31 @@ def convertExp(exp):
     
     return result
 
-s = "2 ** (3+5)"
+def removeSpace(s):
+    s = s.replace(" ", "")
+    return s
+
+def cal(exp):
+    stack = []
+    for i in exp:
+        if i.isdigit():
+            stack.append(int(i))
+        else:
+            op1 = stack.pop()
+            op2 = stack.pop()
+            
+            if i == "+":
+                stack.append(op1 + op2)
+            elif i == "-":
+                stack.append(op1 - op2)
+            elif i == "*":
+                stack.append(op1 * op2)
+            elif i == "/":
+                stack.append(int(op1 / op2)) 
+    print(stack)
+
+s = "2 * (3+5)"
 try:
-    convertExp(s)
+    cal(convertExp(removeSpace(s)))
 except:
     print("Error")
