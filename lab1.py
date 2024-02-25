@@ -30,7 +30,7 @@ def convertExp(exp):
         elif char == ')':
             while stack and stack[-1] != '(':
                 result.append(stack.pop())
-            stack.pop() # Pop '('
+            stack.pop() #(
         else:
             while (stack and compareOp(char)):
                 result.append(stack.pop())
@@ -61,7 +61,7 @@ def cal(exp):
                 stack.append(op1 * op2)
             elif i == "/":
                 stack.append(int(op1 / op2)) 
-    print(stack)
+    print(stack[0])
 
 s = "2 * (3+5)"
 try:
