@@ -1,6 +1,6 @@
 public class Token {
-    enum Type {
-        NUM, ID, OP, LPAR, RPAR, DIV, MOD, SEMICOLON, EOF
+    public enum Type {
+        NUM, OP, LPAR, RPAR, SEMICOLON, DIV, MOD, ID, EOF
     }
 
     private final Type type;
@@ -21,6 +21,15 @@ public class Token {
 
     @Override
     public String toString() {
-        return type + (value.isEmpty() ? "" : (":" + value));
+        switch (type) {
+            case LPAR:
+            case RPAR:
+            case SEMICOLON:
+            case DIV:
+            case MOD:
+                return type.toString();
+            default:
+                return type + ":" + (value != null ? value : "");
+        }
     }
 }

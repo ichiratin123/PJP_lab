@@ -1,13 +1,23 @@
+import java.io.IOException;
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String input = " -2 + (245 div 3);  // note\n2 mod 3 * hello";
-        Lexer lexer = new Lexer(input);
-        List<Token> tokens = lexer.tokenize();
+        // Assuming 'input.txt' is in the current directory, otherwise specify the full path
+        String filePath = "E:\\code\\PJP\\PJP_lab\\lab2_jv\\src\\input.txt";
 
-        for (Token token : tokens) {
-            System.out.println(token);
+        try {
+            Lexer lexer = new Lexer(filePath);
+            lexer.tokenize();
+            List<Token> tokens = lexer.getTokens();
+
+            // Print out the tokens
+            for (Token token : tokens) {
+                System.out.println(token);
+            }
+        } catch (IOException e) {
+            System.out.println("An error occurred while reading the file.");
+            e.printStackTrace();
         }
     }
 }
