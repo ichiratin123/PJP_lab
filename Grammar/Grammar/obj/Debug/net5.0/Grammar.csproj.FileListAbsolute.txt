@@ -1,0 +1,16 @@
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\G1.TXT
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\Grammar.exe
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\Grammar.deps.json
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\Grammar.runtimeconfig.json
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\Grammar.runtimeconfig.dev.json
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\Grammar.dll
+E:\code\PJP\PJP_lab\Grammar\Grammar\bin\Debug\net5.0\Grammar.pdb
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.AssemblyInfoInputs.cache
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.AssemblyInfo.cs
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.csproj.CoreCompileInputs.cache
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.dll
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\refint\Grammar.dll
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.pdb
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\Grammar.genruntimeconfig.cache
+E:\code\PJP\PJP_lab\Grammar\Grammar\obj\Debug\net5.0\ref\Grammar.dll
