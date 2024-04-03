@@ -1,6 +1,7 @@
 {Testing grammar}
 
-S : A B C | C A;
-A : a A | C a | {e};
-B : b B | c;
-C : A b C | {e};
+E : T A; 
+A: d T A | {e};
+T : F B ;
+B : c F B | {e};
+F : a E b | i;

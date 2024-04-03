@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4767c92-027c-4216-aa58-7598479f2c9b" name="Changes" comment="" />
+    <list default="true" id="c4767c92-027c-4216-aa58-7598479f2c9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Grammar/.vs/Grammar/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/.vs/Grammar/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/.vs/Grammar/FileContentIndex/0f65131c-60a2-4663-8a94-ab6bb408eb2a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/.vs/Grammar/FileContentIndex/7a984023-e95c-454d-8f48-74bddc0e2e23.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/.vs/Grammar/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/.vs/Grammar/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/.vs/Grammar/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/.vs/Grammar/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/G1.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/G1.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/bin/Debug/net5.0/G1.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/bin/Debug/net5.0/G1.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Debug/net5.0/Grammar.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Grammar/Grammar/obj/Release/net5.0/Grammar.assets.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

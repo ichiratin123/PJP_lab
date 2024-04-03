@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grammar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5738b31ffdbd57e7bfd05c0f2755042ffd17f90c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grammar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grammar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
